@@ -12,8 +12,8 @@ from django.utils.translation import ugettext_lazy as _
 #     name = models.CharField(_('name'), max_length=100)
 #
 #     class Meta:
-#         verbose_name = _('name')
-#         verbose_name_plural = _('names')
+#         verbose_name = _('poll')
+#         verbose_name_plural = _('polls')
 #
 #     def __str__(self):
 #         return self.name
